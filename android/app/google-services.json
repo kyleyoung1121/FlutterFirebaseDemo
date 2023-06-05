@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879404680670",
+    "project_id": "kylestestapp",
+    "storage_bucket": "kylestestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879404680670:android:71b6ed4517fa6cb08b494f",
+        "android_client_info": {
+          "package_name": "com.example.kyles_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879404680670-3709f0cbmp1g3og9d4q7mtgc734p4i96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKB1AuBMo9Ym_thSnzcClbHxosxN5QGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879404680670-3709f0cbmp1g3og9d4q7mtgc734p4i96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
